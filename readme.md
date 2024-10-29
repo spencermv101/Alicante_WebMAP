@@ -1,6 +1,6 @@
 # Spain Alicante - My Favorite Study Abroad Spots 
 
-[https://github.com/spencermv101/Alicante_WebMAP.git
+My map Link: [https://github.com/spencermv101/Alicante_WebMAP.git
 ](http://127.0.0.1:5500/index.html)
 
 ## My First WebMap! 
